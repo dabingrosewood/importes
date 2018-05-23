@@ -6,7 +6,7 @@ import time
 import argparse
 from util import timetransfer,analyze;
 
-
+##
 # ES索引和Type名称
 INDEX_NAME = "index-auth"
 TYPE_NAME = "log"

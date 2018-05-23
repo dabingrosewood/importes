@@ -97,3 +97,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+dns.txt.gz
+*.gz
+dns.txt.gz
+*.gz
+*.txt
